@@ -6,7 +6,7 @@
 1. 克隆存儲庫：
 
     ```bash
-    git clone https://github.com/your_username/guess-number-game.git
+    安裝python
     ```
 
 2. 進入項目目錄：
